@@ -12,7 +12,7 @@ class Color(IntEnum):
 
 class ClientInfo(IntEnum):
     ZONYX = .
-    BOT_GUILD_ID = .  #new era
+    BOT_GUILD_ID = . 
 
 
 class ChannelsInfo(IntEnum):
